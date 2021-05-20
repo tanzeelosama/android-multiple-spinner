@@ -3,7 +3,7 @@
     <string name="state">State*</string>
     <string name="district">District*</string>
     <string name="submit">Submit</string>
-    <string name="title_desc">Learning Multiple Spinners (Populating Spinner based on another Spinner Selection)
+    <string name="title_desc">Learning Multiple Spinners (Populating Second Spinner based on the Selection of First Spinner)
         <br/><br/> Using Names of Indian States in First Spinner.
         <br/> On selecting a State, Second Spinner is populated with the Names of Districts belonging to the selected State.
     </string>
