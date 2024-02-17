@@ -11,6 +11,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.android.application.R;
+
 public class MainActivity extends AppCompatActivity {
 
     private String selectedDistrict, selectedState;                 //vars to hold the values of selected State and District
